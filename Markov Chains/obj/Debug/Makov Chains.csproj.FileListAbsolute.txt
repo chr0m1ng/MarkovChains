@@ -1,0 +1,6 @@
+c:\users\dev\documents\visual studio 2015\Projects\Makov Chains\Makov Chains\bin\Debug\Makov Chains.exe.config
+c:\users\dev\documents\visual studio 2015\Projects\Makov Chains\Makov Chains\bin\Debug\Makov Chains.exe
+c:\users\dev\documents\visual studio 2015\Projects\Makov Chains\Makov Chains\bin\Debug\Makov Chains.pdb
+c:\users\dev\documents\visual studio 2015\Projects\Makov Chains\Makov Chains\obj\Debug\Makov Chains.csprojResolveAssemblyReference.cache
+c:\users\dev\documents\visual studio 2015\Projects\Makov Chains\Makov Chains\obj\Debug\Makov Chains.exe
+c:\users\dev\documents\visual studio 2015\Projects\Makov Chains\Makov Chains\obj\Debug\Makov Chains.pdb

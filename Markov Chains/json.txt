@@ -1,0 +1,336 @@
+{
+  "quem": [
+    "faltar"
+  ],
+  "faltar": [
+    "à"
+  ],
+  "à": [
+    "defesa"
+  ],
+  "defesa": [
+    "por",
+    "terá",
+    "e",
+    ""
+  ],
+  "por": [
+    "justa"
+  ],
+  "justa": [
+    "causa"
+  ],
+  "causa": [
+    "pode"
+  ],
+  "pode": [
+    "solicitar"
+  ],
+  "solicitar": [
+    "segunda"
+  ],
+  "segunda": [
+    "chamada"
+  ],
+  "chamada": [
+    "no",
+    "não",
+    "forem",
+    "for"
+  ],
+  "no": [
+    "protocolo",
+    "trabalho,",
+    "prazo.",
+    "dia"
+  ],
+  "protocolo": [
+    "da",
+    "ou"
+  ],
+  "da": [
+    "uesc,",
+    "dupla"
+  ],
+  "uesc,": [
+    "anexando"
+  ],
+  "anexando": [
+    "a"
+  ],
+  "a": [
+    "devida",
+    "2ª",
+    "dupla"
+  ],
+  "devida": [
+    "justificativa"
+  ],
+  "justificativa": [
+    "(p.ex."
+  ],
+  "(p.ex.": [
+    "atestado"
+  ],
+  "atestado": [
+    "médico)."
+  ],
+  "médico).": [
+    ""
+  ],
+  "se": [
+    "a",
+    "for",
+    "os",
+    "apenas",
+    "estiver"
+  ],
+  "2ª": [
+    "chamada",
+    "chamada."
+  ],
+  "não": [
+    "for",
+    "será"
+  ],
+  "for": [
+    "solicitada",
+    "indeferida",
+    "deferido,"
+  ],
+  "solicitada": [
+    "no"
+  ],
+  "ou": [
+    "se",
+    "a"
+  ],
+  "indeferida": [
+    "pelo"
+  ],
+  "pelo": [
+    "departamento,"
+  ],
+  "departamento,": [
+    "o"
+  ],
+  "o": [
+    "aluno",
+    "trabalho",
+    "ausente"
+  ],
+  "aluno": [
+    "ou",
+    "presente"
+  ],
+  "dupla": [
+    "ausente",
+    "faltarem",
+    "faltar"
+  ],
+  "ausente": [
+    "à",
+    "fará"
+  ],
+  "terá": [
+    "nota"
+  ],
+  "nota": [
+    "zero",
+    "pela"
+  ],
+  "zero": [
+    "no"
+  ],
+  "trabalho,": [
+    "sem"
+  ],
+  "sem": [
+    "direito",
+    "",
+    "consulta,"
+  ],
+  "direito": [
+    "a"
+  ],
+  "chamada.": [
+    "",
+    ""
+  ],
+  "os": [
+    "dois"
+  ],
+  "dois": [
+    "membros"
+  ],
+  "membros": [
+    "da"
+  ],
+  "faltarem": [
+    "à"
+  ],
+  "e": [
+    "seus",
+    "sem",
+    "hora",
+    "seu"
+  ],
+  "seus": [
+    "pedidos"
+  ],
+  "pedidos": [
+    "de"
+  ],
+  "de": [
+    "2ª"
+  ],
+  "forem": [
+    "deferidos,"
+  ],
+  "deferidos,": [
+    "o"
+  ],
+  "trabalho": [
+    "não",
+    "só"
+  ],
+  "será": [
+    "avaliado,",
+    "avaliado",
+    "penalizado"
+  ],
+  "avaliado,": [
+    "mesmo"
+  ],
+  "mesmo": [
+    "que"
+  ],
+  "que": [
+    "tenha"
+  ],
+  "tenha": [
+    "sido"
+  ],
+  "sido": [
+    "entregue"
+  ],
+  "entregue": [
+    "no"
+  ],
+  "prazo.": [
+    "ambos"
+  ],
+  "ambos": [
+    "farão"
+  ],
+  "farão": [
+    "uma"
+  ],
+  "uma": [
+    "prova"
+  ],
+  "prova": [
+    "teórica,"
+  ],
+  "teórica,": [
+    "individual"
+  ],
+  "individual": [
+    "e"
+  ],
+  "consulta,": [
+    "no"
+  ],
+  "dia": [
+    "e"
+  ],
+  "hora": [
+    "das"
+  ],
+  "das": [
+    "provas",
+    "condições"
+  ],
+  "provas": [
+    "de"
+  ],
+  "apenas": [
+    "um"
+  ],
+  "um": [
+    "membro"
+  ],
+  "membro": [
+    "da"
+  ],
+  "seu": [
+    "pedido"
+  ],
+  "pedido": [
+    "de"
+  ],
+  "deferido,": [
+    "o"
+  ],
+  "só": [
+    "será"
+  ],
+  "avaliado": [
+    "se"
+  ],
+  "estiver": [
+    "dentro"
+  ],
+  "dentro": [
+    "das"
+  ],
+  "condições": [
+    "descritas"
+  ],
+  "descritas": [
+    "na"
+  ],
+  "na": [
+    "seção",
+    "nota"
+  ],
+  "seção": [
+    "2.3"
+  ],
+  "2.3": [
+    "(pág."
+  ],
+  "(pág.": [
+    "3)."
+  ],
+  "3).": [
+    "nesse"
+  ],
+  "nesse": [
+    "caso,"
+  ],
+  "caso,": [
+    "o"
+  ],
+  "presente": [
+    "à"
+  ],
+  "penalizado": [
+    "na"
+  ],
+  "pela": [
+    "ausência"
+  ],
+  "ausência": [
+    "do"
+  ],
+  "do": [
+    "parceiro;"
+  ],
+  "parceiro;": [
+    "o"
+  ],
+  "fará": [
+    "uma"
+  ]
+}
